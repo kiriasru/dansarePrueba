@@ -3,13 +3,13 @@ export const productos = [
       categoria: "Zapatillas",
       imagen: "assets/imgs/productos/puntas.jpg",
       titulo: "Zapatillas Elite Pointe de Grishko / Nikolay",
-      precio: 450.00
+      precio: 1799.00
     },
     {
       categoria: "Calcetines",
       imagen: "assets/imgs/productos/calcetines-rocha.jpg",
       titulo: "Calcetines de pantorrilla Simone Rocha",
-      precio: 620.00
+      precio: 629.00
     },
     {
       categoria: "Punteras",
@@ -21,6 +21,6 @@ export const productos = [
       categoria: "Leotardos",
       imagen: "assets/imgs/productos/leotardo-negro.jpg",
       titulo: "Black leotard Gymnastic Dance wear",
-      precio: 450.00
+      precio: 459.00
     }
 ];
