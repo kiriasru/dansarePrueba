@@ -15,7 +15,7 @@ export const productos = [
       categoria: "Punteras",
       imagen: "assets/imgs/productos/punteras-gel.jpg",
       titulo: "Punteras de gel de silicona para ballet",
-      precio: 95.00
+      precio: 99.00
     },
     {
       categoria: "Leotardos",
